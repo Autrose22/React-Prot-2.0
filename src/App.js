@@ -1,0 +1,10 @@
+import React from 'react';
+import AboutMe from './components/AboutMe';
+import ContactInfo from './components/ContactInfo';
+import Footer from './components/Footer';
+import Footer from './components/Header';
+import Footer from './components/Nav';
+import Footer from './components/AboutMe';
+import Resume from './components/Resume';
+import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
